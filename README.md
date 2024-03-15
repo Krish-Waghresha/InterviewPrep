@@ -20,7 +20,5 @@ What I Learned:
 4. Became a pro at juggling HTML, CSS, Java, and Postgres all at once.
 
 
-
 What's Next:
-
 Version 2 is on the horizon! Less reliance on cookies, smarter database use, and some cool new features like easy question navigation.
