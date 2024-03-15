@@ -19,5 +19,8 @@ What I Learned:
 3. CSS transitions? Nailed it.
 4. Became a pro at juggling HTML, CSS, Java, and Postgres all at once.
 
+
+
 What's Next:
-\nVersion 2 is on the horizon! Less reliance on cookies, smarter database use, and some cool new features like easy question navigation.
+
+Version 2 is on the horizon! Less reliance on cookies, smarter database use, and some cool new features like easy question navigation.
