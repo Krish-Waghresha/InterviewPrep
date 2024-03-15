@@ -13,9 +13,10 @@ I'm no designer either, but I wanted this thing to look snazzy. So, I tinkered w
 
 What I Learned:
 
-Got the hang of cookies and sessions, finally!
-Figured out how to build a database without losing my mind.
-CSS transitions? Nailed it.
-Became a pro at juggling HTML, CSS, Java, and Postgres all at once.
+1. Got the hang of cookies and sessions, finally!
+2. Figured out how to build a database without losing my mind.
+3. CSS transitions? Nailed it.
+4. Became a pro at juggling HTML, CSS, Java, and Postgres all at once.
+
 What's Next:
 Version 2 is on the horizon! Less reliance on cookies, smarter database use, and some cool new features like easy question navigation.
