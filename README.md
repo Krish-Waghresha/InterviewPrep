@@ -1,4 +1,5 @@
 InterviewPrep: Project Story
+
 The Beginning:
 So, I had this idea to create something helpful for those prepping for tech interviews. I wanted it to cover C, Java, and OOP because, well, those are the hot topics, right?
 
@@ -19,4 +20,4 @@ What I Learned:
 4. Became a pro at juggling HTML, CSS, Java, and Postgres all at once.
 
 What's Next:
-Version 2 is on the horizon! Less reliance on cookies, smarter database use, and some cool new features like easy question navigation.
+\nVersion 2 is on the horizon! Less reliance on cookies, smarter database use, and some cool new features like easy question navigation.
